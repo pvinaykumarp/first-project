@@ -1,3 +1,1 @@
-This is master branch file.
-edited in merge conflicts.
-edit by master branch.
+This is master branch file.request.
