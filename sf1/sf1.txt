@@ -1,2 +1,2 @@
 This is snowflake first file.
-This is update by dev-achari.
+This is web editing (resolve conflicts).
