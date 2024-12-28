@@ -1,2 +1,2 @@
 This is master branch file.
-edited by master branch.
+edited in merge conflicts.
